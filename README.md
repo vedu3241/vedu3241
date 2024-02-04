@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on front-end projects<br>🌱 I’m currently learning android app development<br>⚡ Fun fact: I love gaming🎮 too!
+🔭 I’m currently working on front-end projects<br>🌱 learning android app development<br>⚡ Fun fact: I love gaming🎮 too!
 
 
 ## 🌐 Socials:
